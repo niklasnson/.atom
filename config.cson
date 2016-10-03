@@ -1,0 +1,26 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+  dash:
+    filenames:
+      "gruntfile.js": [
+        "grunt"
+      ]
+    grammars:
+      JavaScript: [
+        "nodejs"
+      ]
+  editor:
+    fontFamily: "Hack"
+    fontSize: 10
+    lineHeight: 1.7
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "7e3a5ce4-64b2-0a0a-2800-32c32ccbcf31"
+  fonts:
+    fontFamily: "Hack"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
